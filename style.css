@@ -1,0 +1,23 @@
+body {
+  background-image: url("https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif");
+  background-repeat: no-repeat;
+  background-position: centre;
+  background-size: cover;
+  font-family: Verdana;
+  margin: 40pt;
+}
+canvas {
+  border: 5px solid white;
+  height: 200pt;
+}
+
+h1 {
+  color: White;
+  text-align: center;
+}
+
+p{
+  color: White;
+  text-align: center;
+  font-size: 12pt;
+}
